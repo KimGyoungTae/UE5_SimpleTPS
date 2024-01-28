@@ -1,41 +1,73 @@
 [
 	{
-		"file": "D:\\Unreal\\Unreal Udemy\\SimpleTPS\\Source\\SimpleTPS\\SimpleTPS.Build.cs",
+		"file": "D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\Source\\SimpleTPS\\MyPawn.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\Unreal\\Unreal Udemy\\SimpleTPS\\.vscode\\compileCommands_SimpleTPS\\SimpleTPS.255.rsp"
+			"@D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\.vscode\\compileCommands_SimpleTPS\\SimpleTPS.255.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Unreal\\Unreal Udemy\\SimpleTPS\\Source\\SimpleTPS\\SimpleTPS.cpp",
+		"file": "D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\Source\\SimpleTPS\\MyPawn.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\Unreal\\Unreal Udemy\\SimpleTPS\\.vscode\\compileCommands_SimpleTPS\\SimpleTPS.255.rsp"
+			"@D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\.vscode\\compileCommands_SimpleTPS\\SimpleTPS.255.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Unreal\\Unreal Udemy\\SimpleTPS\\Source\\SimpleTPS\\SimpleTPS.h",
+		"file": "D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\Source\\SimpleTPS\\ShooterCharacter.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\Unreal\\Unreal Udemy\\SimpleTPS\\.vscode\\compileCommands_SimpleTPS\\SimpleTPS.255.rsp"
+			"@D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\.vscode\\compileCommands_SimpleTPS\\SimpleTPS.255.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Unreal\\Unreal Udemy\\SimpleTPS\\Source\\SimpleTPS\\SimpleTPSGameModeBase.cpp",
+		"file": "D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\Source\\SimpleTPS\\ShooterCharacter.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\Unreal\\Unreal Udemy\\SimpleTPS\\.vscode\\compileCommands_SimpleTPS\\SimpleTPS.255.rsp"
+			"@D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\.vscode\\compileCommands_SimpleTPS\\SimpleTPS.255.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Unreal\\Unreal Udemy\\SimpleTPS\\Source\\SimpleTPS\\SimpleTPSGameModeBase.h",
+		"file": "D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\Source\\SimpleTPS\\SimpleTPS.Build.cs",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
-			"@D:\\Unreal\\Unreal Udemy\\SimpleTPS\\.vscode\\compileCommands_SimpleTPS\\SimpleTPS.255.rsp"
+			"@D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\.vscode\\compileCommands_SimpleTPS\\SimpleTPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\Source\\SimpleTPS\\SimpleTPS.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\.vscode\\compileCommands_SimpleTPS\\SimpleTPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\Source\\SimpleTPS\\SimpleTPS.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\.vscode\\compileCommands_SimpleTPS\\SimpleTPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\Source\\SimpleTPS\\SimpleTPSGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\.vscode\\compileCommands_SimpleTPS\\SimpleTPS.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\Source\\SimpleTPS\\SimpleTPSGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Unreal\\Unreal Udemy\\SimpleTPS\\UE5_SimpleTPS\\.vscode\\compileCommands_SimpleTPS\\SimpleTPS.255.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	}
